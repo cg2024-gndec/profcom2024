@@ -315,6 +315,8 @@ To communicate effectively, consider the following tips:
 - **Provide and Seek Feedback:** Encourage feedback to ensure the message is understood and to improve future communication.
 - **Stay Open and Empathetic:** Be receptive to others' viewpoints and show understanding in your responses.
 
+![](Principles-of-Communication.jpg)
+
 ---
 
 These notes comprehensively cover the topics related to **Professional Communication** for a BTech 1st year course. Let me know if you need further elaboration or clarification on any of these points!
