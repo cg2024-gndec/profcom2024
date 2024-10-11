@@ -1,5 +1,7 @@
 # PROFESSIONAL COMMUNICATION
 
+![](EDL391_Professional-Communication_72dpi_digital-scaled-e1649703247797.webp)
+
 ## SYLLABUS
 
 ### Section - A
@@ -17,11 +19,20 @@ horizontal communication and diagonal communication. Informal channel
 of communication: Grapevine. Barriers to Communication. Tips for effecƟve 
 communication. 
 
+| Content | Link |
+|---------|------|
+| Chapter at a Glance | [Priciples of Communication](https://cg2024-gndec.github.io/communication/) |
+
 **UNIT 2. LISTENING SKILLS:** 
 
 Listening vs. Hearing; Role of Effective Listening in Communication; Types of 
 Listening; Poor Listening Habits; Active Listening- an effective listening skill; 
 Traits of an Effective Listener; Barriers to Effective Listening. 
+
+
+| Content | Link |
+|---------|------|
+| Chapter at a Glance | [Listening Skills](https://cg2024-gndec.github.io/listening/) |
 
 **UNIT 3. KINESICS & VOICE DYNAMICS:**
  
