@@ -22,6 +22,7 @@ communication.
 | Content | Link |
 |---------|------|
 | Chapter at a Glance | [Priciples of Communication](https://cg2024-gndec.github.io/communication/) |
+| Other material | [Drive Folder](https://drive.google.com/drive/folders/1YlI9PHsUwZLbvxuPAEZxHZnTZ51-9Vje) |
 
 **UNIT 2. LISTENING SKILLS:** 
 
@@ -33,7 +34,7 @@ Traits of an Effective Listener; Barriers to Effective Listening.
 | Content | Link |
 |---------|------|
 | Chapter at a Glance | [Listening Skills](https://cg2024-gndec.github.io/listening/) |
-
+| Other material | [Drive Folder](https://drive.google.com/drive/folders/1YlI9PHsUwZLbvxuPAEZxHZnTZ51-9Vje) |
 **UNIT 3. KINESICS & VOICE DYNAMICS:**
  
 Kinesics: definition; importance. Features of body language: Personal 
