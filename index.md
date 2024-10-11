@@ -21,7 +21,7 @@ communication.
 
 | Content | Link |
 |---------|------|
-| Chapter at a Glance | [Priciples of Communication](https://cg2024-gndec.github.io/communication/) |
+| Chapter at a Glance | [Principles of Communication](https://cg2024-gndec.github.io/communication/) |
 | Other material | [Drive Folder](https://drive.google.com/drive/folders/1YlI9PHsUwZLbvxuPAEZxHZnTZ51-9Vje) |
 
 **UNIT 2. LISTENING SKILLS:** 
