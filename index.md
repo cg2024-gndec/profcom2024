@@ -7,7 +7,7 @@
 **UNIT 1. PRINCIPLES OF COMMUNICATION:** 
 
 Importance of communication; Importance of communication in English; 
-Concept of effective Communication; AsserƟve communication; 
+Concept of effective Communication; Assertive communication; 
 Communication and self-concept; Role of emotions in communication; 
 Process of communication; Knowing the purpose and audience. Types of 
 Communication: formal and Informal Communication; verbal and non-verbal; interpersonal communication, intrapersonal communication; Cross 
