@@ -60,8 +60,8 @@ Preparing Cover letters and Resume.
 **UNIT 6. VOCABULARY SKILLS:** 
 
 1. [Idioms and phrases](https://cg2024-gndec.github.io/idioms-oneword/)
-2. One-word substitutes
-3. Antonyms & Synonyms 
+2. [One-word substitutes](https://cg2024-gndec.github.io/idioms-oneword/)
+3. [Antonyms & Synonyms](https://cg2024-gndec.github.io/Antsyn/) 
 4. Homophone and homonym
 5. Prefixes and Suffixes
 
